@@ -1,0 +1,49 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+li {
+  margin-left: 30px;
+}
+
+.textColorNavBar {
+  color: blue;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.bodyhomepage {
+  width: 100%;
+}
+label {
+  margin-top: 10px;
+}
+input,select {
+  width: 300px;
+  height: 25px;
+}
+textarea {
+  width: 300px;
+  height: 200px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  border-style: inset;
+  width: 400px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+button {
+  width: 50px;
+}
+.buttonblog {
+  display: flex;
+  margin-top: 10px;
+  gap: 10px;
+}
